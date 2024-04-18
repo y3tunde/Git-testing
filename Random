@@ -1,0 +1,4 @@
+<?php
+$_greeting = "hello"
+echo $_greeting;
+?>
